@@ -3,7 +3,7 @@ Welcome to the profile of Maxim Yukhnevich!<img src="https://media.giphy.com/med
 </h3>
 
 ### &#128406; About Me :
-&#128104;&#8205;&#128187;IT faculty, POIBMS, BSTU<br>
+🏢;IT faculty, POIBMS, BSTU<br>
 &#127747;Minsk, Belarus<br>
 &#127747;Purposeful
 
