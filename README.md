@@ -3,9 +3,9 @@ Welcome to the profile of Maxim Yukhnevich!<img src="https://media.giphy.com/med
 </h3>
 
 ### &#128406; About Me :
-🏢;IT faculty, POIBMS, BSTU<br>
-&#127747;Minsk, Belarus<br>
-&#127747;Purposeful
+🏢 IT faculty, POIBMS, BSTU<br>
+📍 Minsk, Belarus<br>
+🔜 Purposeful
 
 <h2>Social network:</h2>
 
