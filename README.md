@@ -4,9 +4,10 @@ Welcome to the profile of Maxim Yukhnevich!<img src="https://media.giphy.com/med
 
 ### &#128406; About Me :
 &#128104;&#8205;&#128187;IT faculty, POIBMS, BSTU<br>
-&#127747;Minsk, Belarus
+&#127747;Minsk, Belarus<br>
+&#127747;Purposeful
 
-<h2>Social:</h2>
+<h2>Social network:</h2>
 
 <div id="badges">
   </a>
