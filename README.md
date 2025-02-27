@@ -1,13 +1,13 @@
-<h3 align="center">
+<h2 align="center">
 Welcome to the profile of Maxim Yukhnevich!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> 
-</h3>
+</h2>
 
-<h2>About Me:</h2>
+<h3>About Me :</h2>
 🏢 IT faculty, POIBMS, BSTU<br>
 📍 Minsk, Belarus<br>
 🔜 Purposeful
 
-<h2>Social network:</h2>
+<h3>Social network :</h2>
 
 <div id="badges">
   </a>
@@ -16,7 +16,9 @@ Welcome to the profile of Maxim Yukhnevich!<img src="https://media.giphy.com/med
   </a>
 </div>
 <a></a>
-
+<br>
+<br>
+<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maksimka999&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
