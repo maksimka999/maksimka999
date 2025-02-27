@@ -17,8 +17,6 @@ Welcome to the profile of Maxim Yukhnevich!<img src="https://media.giphy.com/med
 </div>
 <a></a>
 <br>
-<br>
-<br>
 
 <h3>Also writing to :</h3>
 
