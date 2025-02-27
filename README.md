@@ -10,10 +10,7 @@ Welcome to the profile of Maxim Yukhnevich!<img src="https://media.giphy.com/med
 
 <div id="badges">
   </a>
-  <a href="https://www.instagram.com/korenevskiyy/">
-    <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://web.telegram.org/k/#@korenevskiyy">
+  <a href="https://web.telegram.org/k/#@nerv_120">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
 </div>
